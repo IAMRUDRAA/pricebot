@@ -1,7 +1,7 @@
 {
     "name": "Crypto Price Bot",
     "description": "A Chatbot for telegram to get price of cryptos from binance",
-    "repository": "https://github.com/IAMRUDRAA/pricebot.git",
+    "repository": "https://github.com/IAMRUDRAA/pricebot",
     "keywords": ["Crypto price bot", "binance api", "telegram crypto bot"],
     "env" : {
         "API_TOKEN" : {
