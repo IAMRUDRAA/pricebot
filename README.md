@@ -8,9 +8,11 @@
 
 - Get Your Self A Bot Token from [BotFather](https://t.me/BotFather)
 
+- For Any Help Contact [Owner](https://t.me/alwayshelper)
+
 - 👇 Click On Below Button & Deploy It
 
-<a href="https://heroku.com/deploy?template=Your Repo Link">
+<a href="https://heroku.com/deploy?template=https://github.com/IAMRUDRAA/pricebot.git">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy" width=350>
 </a>
 <br><br>
